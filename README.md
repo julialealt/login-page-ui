@@ -4,7 +4,6 @@
 ## Install 
 
 - Install dependencies: `npm i` or `npm install`
-
 - Run project locally: `npm start`
 
 ## Technologies
