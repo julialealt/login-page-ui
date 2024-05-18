@@ -9,5 +9,5 @@
 
 ## Technologies
 
-- React
+- React JS
 - CSS
