@@ -5,16 +5,39 @@
 
 ## Technologies
 
-- React
+- React JS
+- CSS
+- React Icons
 
 <br> 
 
 ## Install 
 
-- Install dependencies: `npm i` or `npm install`
-- Run project locally: `npm start`
+Clone the project
+
+```bash
+  git clone https://github.com/julialealt/react-login-page.git
+```
+
+Enter the project directory
+
+```bash
+  cd react-login-page
+```
+
+Install the dependencies
+
+```bash
+  npm i
+```
+
+Run project locally
+
+```bash
+  npm start
+```
 
 <br> 
 
 #### Credits 
-I made this app following [this tutorial]()
+I made this following [this tutorial](https://youtu.be/kghwFYOJiNg?si=aXX0IrGzorlYSKka)
